@@ -1,4 +1,4 @@
-package com.litecashtop.weather_flow
+package com.litecashtop.weather_flow.data
 
 data class WeatherResponse(
     val daily: Daily

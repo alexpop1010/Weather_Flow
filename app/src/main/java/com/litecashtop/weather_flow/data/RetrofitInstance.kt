@@ -1,5 +1,6 @@
-package com.litecashtop.weather_flow
+package com.litecashtop.weather_flow.data
 
+import com.litecashtop.weather_flow.data.WeatherApi
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

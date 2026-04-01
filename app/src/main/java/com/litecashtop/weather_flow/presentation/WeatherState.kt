@@ -1,4 +1,6 @@
-package com.litecashtop.weather_flow
+package com.litecashtop.weather_flow.presentation
+
+import com.litecashtop.weather_flow.domain.Day
 
 sealed class WeatherState {
     data class Success(val list: List<Day>): WeatherState()

@@ -1,4 +1,4 @@
-package com.litecashtop.weather_flow
+package com.litecashtop.weather_flow.domain
 
 data class Day(
     val day: String,

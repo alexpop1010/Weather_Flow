@@ -1,4 +1,4 @@
-package com.litecashtop.weather_flow
+package com.litecashtop.weather_flow.data
 
 import retrofit2.http.GET
 import retrofit2.http.Query
